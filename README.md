@@ -8,6 +8,6 @@ DRI - Fusion Visible + IR
 - [x] Train on vedai visible images
 - [x] Train on vedai IR images
 - [x] Train on stacked images visible / ir
-- [] Alight darknet model to speed up
-- [] Try quantization to speed up
+- [ ] Alight darknet model to speed up
+- [ ] Try quantization to speed up
 
